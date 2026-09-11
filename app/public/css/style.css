@@ -1,6 +1,6 @@
 :root {
   --cor-fundo-pagina: #f8f9fa; /* Cor de fundo suave (cinza claro) */
-  --cor-cabecalho: #f7b7cdf1; /* Azul padrão (cor primária do Bootstrap) */
+  --cor-cabecalho: #ff0000f1; /* Azul padrão (cor primária do Bootstrap) */
   --cor-navegacao: #ffe7e7; /* Cinza suave para a navegação */
   --cor-botoes: #a09496; /* Verde de sucesso */
   --cor-botoes-hover: #218838; /* Verde mais escuro para hover */
@@ -28,7 +28,7 @@
   
   header {
     background-color: var(--cor-cabecalho);
-    color: white;
+    color: rgb(116, 32, 32);
     text-align: center;
     padding: 1rem;  
   }
